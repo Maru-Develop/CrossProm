@@ -39,6 +39,24 @@
 		"appName": "Hindi Romantic Shayari",
 		"appDescription": "Install and Enjoy Awesome Hindi Status and Hindi Shayari.",
 		"url": "https://play.google.com/store/apps/details?id=com.Shayari.Status.Hindi"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/LqLddUjf2p3Qers7ekA7rXvNHe8yVNtwypRiq7UrYCwRIO_OedlKekfDXiLSxg2V73w=s180",
+		"appName": "স্তন সমস্যা ও সমাধান",
+		"appDescription": "স্তন ক্যান্সার থেকে বাঁচতে ৭টি উপায়",
+		"url": "https://play.google.com/store/apps/details?id=com.BreastCancer.health"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/Qv5vmhAP3FksqQ3q4vxJ9oCj2RcTRnMfemgsFoxmHu0U5mmsLfzdz3QBHlbdhA5f_ZI=s180",
+		"appName": "Al Quran - Tafsir",
+		"appDescription": "(English, Bangla & Indonesian)",
+		"url": "https://play.google.com/store/apps/details?id=com.Tafsir.Quran"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/aLUIflFjPwEdZqpgUrt0LwqMWD6SQoHBCXMbTfBcDnNsKVnk9btQAB7Y8z2du2LF9b4=s180",
+		"appName": "Valentine's Day Photo Frame",
+		"appDescription": "Valentine's Day Photo Frames 2020 is a free photo editor app for Android",
+		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	}
 	
 	]
