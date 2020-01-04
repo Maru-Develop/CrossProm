@@ -20,19 +20,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.shayari.Status"
 	},
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/5b_oiDfiE2ZFti4IEJ8pPYvU8UEGBH2T_WBiWiw6___wMyLMu0frSmM71jlMSI1baCa8=s180-rw",
-		"appName": "Hindi Shayari 2020",
-		"appDescription": "Understand Hindi easily and express themselves in your own language.",
-		"url": "https://play.google.com/store/apps/details?id=com.status.hindi.shayari"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/wh1jL6N9XzrfO5D25fY4WXOp2YDO_uAd7NVJ6G7PIGMB6ZZX30stakXs5YHwVEkSHA=s180-rw",
-		"appName": "Hindi Jokes, Shayari & Status",
-		"appDescription": "In this app you have been given lots of Shayari, Status & Chutkule.",
-		"url": "https://play.google.com/store/apps/details?id=com.FunnyJokes.funnyhindijokes"
-	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/TOYkDXpO497Ps_HKe3nxwQuCLTQ2KPJZg3-ZC77ud4U9FU-00Ko--XXhsSpd1NVnjzw=s180-rw",
@@ -57,6 +44,19 @@
 		"appName": "Valentine's Day Photo Frame",
 		"appDescription": "Valentine's Day Photo Frames 2020 is a free photo editor app for Android",
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
+	}
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/E-pjCroJLFBWt1aSgyIoCaEtWAksjngbjAvCyUgVPMD_eXWYlTTG35Fk0hoAQfC0KOQ=s180",
+		"appName": "নামাজ শিক্ষা ও প্রয়োজনীয় নিয়ত",
+		"appDescription": "বাংলা নামাজ শিক্ষা এর সাথে থাকছে নামাজের নিয়ত এবং অন্যান্য সকল নামাজের নিয়ত ও নিয়ম।",
+		"url": "https://play.google.com/store/apps/details?id=com.SMapps.Namaj_shikkha"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/md8ycQOYoX3Zidj82DjweVpX3nAI-i0SG4TxrvKeqK6snGD_AuBmdIrTAW8YFBKEfv9s=s180",
+		"appName": "সুন্দরী মেয়ে পটানোর টিপস",
+		"appDescription": "মেয়ে পটানোর সহজ কৌশল অ্যাপ এ মেয়েদের পটানোর সকল কৌশল নিয়ে আলোচনা করা হয়েছে যা আপনার ভালোবাসার মানুষের মন জয় করতে এবং তাকে পটাতে সাহায্য করবে।",
+		"url": "https://play.google.com/store/apps/details?id=com.meye_potano.tips"
 	}
 	
 	]
