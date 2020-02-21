@@ -14,12 +14,6 @@
 	},
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/gXidG4CrqCGHata_tgDo9y1GjEm2v7jVBi_sKwx3SapUyCXAw7bw_NgQIAwOFX4qN8E=s180-rw",
-		"appName": "Maha Shivratri Photo Frame",
-		"appDescription": "Photo Frames App For Maha Shivratri 2020",
-		"url": "https://play.google.com/store/apps/details?id=com.maha_shivratri.photo_frame"
-	},
-	{
 		"appIcon": "https://lh3.googleusercontent.com/XN8qCCmhvbujz2S9DWQNoRdWV6do6K3dG0REXSudsWOuTOclBF-fyT080vNmM9F4e8g=s180",
 		"appName": "30 दिनों में वजन घटाएं",
 		"appDescription": "Lose weight in 30 days",
@@ -68,11 +62,10 @@
 		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
 	},
 	
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/n7OIBfNNedrRAchuP9cFhpwjymNL7OOBA7-XambBkHPmxm38AWUjSA4P4xHuGz9HqYg=s180",
-		"appName": "Valentine's Day Photo Frame",
-		"appDescription": "Valentine's Day Photo Frames 2020 is a free photo editor app for Android",
+		{
+		"appIcon": "https://lh3.googleusercontent.com/-dRaW2lQH6hqooiyfXxnx025ZT41StEZgujQrjcEnwabl3a-SHBo94g_Sf1OZuPN0jA=s180-rw",
+		"appName": "Holi Photo Frame 2020",
+		"appDescription": "Holi Photo Editor is a free photo editor app for Android",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.india"
 	}
 	
