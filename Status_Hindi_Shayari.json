@@ -5,6 +5,12 @@
 		"appDescription": "आयुर्वेदिक पौधे और जड़ी बूटियां - Ayurvedic Nuskhe",
 		"url": "https://play.google.com/store/apps/details?id=com.ayurvedik.paudhe.jadee_bootiyaan"
 	},
+		{
+		"appIcon": "https://lh3.googleusercontent.com/DzJZbqoSBTJhWGiEI7ns2PoA0_DPP2FryEllXSH5M4CbseTDrZZLjDh5Nieej_qf5g=s180",
+		"appName": "HOLI WISHING FRAME",
+		"appDescription": "Holi Wish Photo Frame is a free photo editor app",
+		"url": "https://play.google.com/store/apps/details?id=com.holi.photo_frame"
+	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/fCn_SL73BmtAIb_CAEF7gU3WMtrrCimwj2WGqebqoOx3cHG8ErypzplNtkaAv7S3TPI=s180",
@@ -64,7 +70,7 @@
 	
 		{
 		"appIcon": "https://lh3.googleusercontent.com/988I7iz2RdQtzJ_Gu4Vegaa0rpcD_Cb7b6Y01UpAG4spnrE8d8mPfkZsbPeVpEbyOdZh=s180-rw",
-		"appName": "Holi Photo Frame 2020",
+		"appName": "Holi Photo Frame",
 		"appDescription": "Holi Photo Editor is a free photo editor app for Android",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.india"
 	}
