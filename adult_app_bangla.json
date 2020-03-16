@@ -30,26 +30,8 @@
 	},
 	
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/LITATZetWCEncolWltNg-Lt6qHwJ2SnZUeWs81wpEsTfBs0cw9WSBbrRPGfdgbldlYU=s180",
-		"appName": "স্তন ঝুলে পড়ার কারণ",
-		"appDescription": "Tips to Tightening Your Breasts",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.breast_fitting_tips"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/JIDdtRZt_xiTV4bfu7XdqYll-ICUzO-mxksLpSK81bs8bP6Tbno4caKMJyV0rfPebmol=s180",
-		"appName": "নারী ও পুরুষের গোপনীয়তা",
-		"appDescription": "যৌন সমস্যা ও যৌন সমাধান",
-		"url": "https://play.google.com/store/apps/details?id=com.SMapps.gopon_kotha"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/z2nxcLb4taDnks_DDxmYfWaeng27RzCaNaJ5H_DBLlqM0LiW8TW7v4DlToKtrY889fk=s180",
-		"appName": "সেক্স করার সঠিক পদ্ধতি",
-		"appDescription": "সেক্স পাওয়ার, যৌন আসনসমূহ",
-		"url": "https://play.google.com/store/apps/details?id=com.SMapps.sx_korar_poddhoti"
-	},
+
+
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/VgTH3M8RMbDf8f0YUTIPUba-MUGkuK8mDdcZohsVOhY8G5SQoc0Ekex_KyzIFnKBIg=s180-rw",
@@ -76,7 +58,19 @@
 		"appDescription": "নামাজ শিক্ষা ও প্রয়োজনীয় নিয়ত",
 		"url": "https://play.google.com/store/apps/details?id=com.SMapps.Namaj_shikkha"
 	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/Fad5D3HzZvRvZ_HvzBC9cpqoqnBGLQc5c4QbybigdblqfZePs5AfsRyCu_ceXL63gf8=s180",
+		"appName": "রমজানের সময়সূচী ২০২০",
+		"appDescription": "সেহরী ও ইফতারের সময়সূচী এবং গুরুত্বপূর্ণ দোয়া সমূহ।",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.ramadan"
+	},
 	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/h2xKRk-puV-dlVuORAXww6f5xnZvBt7aCZJUfT55AtZ5zj1L0fL2CLXpdsFuzNDzpJY=s180-rw",
+		"appName": "কুরআনের গল্প",
+		"appDescription": "কুরআনের গল্প ও ইসলামের ঘটনা",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.Quran_er_golpo"
+	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/0toNX6FQWqvpNKdELkIydDJ3RNOhNKzbkk2bkoJHSvBBtF528m5a0Huo9LWtUzl4a0I=s180-rw",
@@ -86,12 +80,7 @@
 	},
 	
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/jSn2kP7PIYn_9JlhVJ29gFaRTnD-0aGU456sJwokKXvHtBGpXDO6hIg8G58O4aoAYDI=s180",
-		"appName": "21 February Photo Frame",
-		"appDescription": "FB Profile Picture Frame App.",
-		"url": "https://play.google.com/store/apps/details?id=com.profile_frame.bangladesh"
-	},
+
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/Vbsio8pQgHDew_AJcKxdikBuGjkJtn_o89QZBNFNcG-9lcq21TpSlrGigaHRjFeP3w=s180",
@@ -106,13 +95,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.hostomoithun"
 	},
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/-sYx9qr10GYmPSNRFoYEUjPyNl5jaNI7QlcgeRiMZrBCzB1tPWUL68S3JpV282g7Mvs=s180",
-		"appName": "২১ শে ফেব্রুয়ারি ফটো ফ্রেম",
-		"appDescription": "২১ ফেব্রুয়ারী (আন্তর্জাতিক মাতৃভাষা দিবসের) ফ্রেম।",
-		"url": "https://play.google.com/store/apps/details?id=com.ekushe_february.photo_frame"
-	},
-	
+
 	
 	
 	{
