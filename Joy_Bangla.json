@@ -58,12 +58,7 @@
 	},
 	
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/0toNX6FQWqvpNKdELkIydDJ3RNOhNKzbkk2bkoJHSvBBtF528m5a0Huo9LWtUzl4a0I=s180-rw",
-		"appName": "২৬ শে মার্চ ফটো ফ্রেম",
-		"appDescription": "২৬ শে মার্চ স্বাধীনতা দিবসের ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.independence.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/Fad5D3HzZvRvZ_HvzBC9cpqoqnBGLQc5c4QbybigdblqfZePs5AfsRyCu_ceXL63gf8=s180",
 		"appName": "রমজানের সময়সূচী ২০২০",
@@ -84,6 +79,54 @@
 		"appName": "জয় বাংলা ফটো ফ্রেম",
 		"appDescription": "Joy Bangla Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.joy_bangla.photo_frame"
+	},
+	
+		{
+		"appIcon": "https://lh3.googleusercontent.com/XO5mCcOlKZdZJcbTiQLzCtGneRYgBVokY-gm2TIkKaR3lcY5Rae5DcU1XN3WCEn_xSp9=s180-rw",
+		"appName": "SwagWord - Fancy Text",
+		"appDescription": "Stylish Text Fonts Generator",
+		"url": "https://play.google.com/store/apps/details?id=com.swag.stylish.word"
+	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/tu50umEn3EvDOEa4Q9ceDo4tCxyvoc2PWhRIV88FKoqnRYx0R1SgkR0aFFjb1QauFIc3=s180-rw",
+		"appName": "সাহাবাদের জীবনী",
+		"appDescription": "অ্যাপটিতে রয়েছে ১৯৩ জন সাহাবিদের জীবনী",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.Sahabader_jiboni"
+	},
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/sGMWgDNhtqepOGqmbQ75rYPs8SfGjuw76lWIJCx54pEK1gCHaZXT_oMRE-FF0lBUYJ2W=s180",
+		"appName": "আল্লাহর ৯৯ নাম",
+		"appDescription": "অর্থসহ ফজিলত, নামাজ শিক্ষা ও দোয়া",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.Allah"
+	},
+	
+	
+	
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/mNO8K330F3YPUIMAzKG3l5sGRTvBPrqYy6dKDXAtbIAvqANT0MwRMZmZ4Fj_Lj-j52g=s180",
+		"appName": "কবিরা গুনাহ ও মুক্তির উপায়",
+		"appDescription": "Kabira Gunah in Islam.",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.kabira_gunah"
+	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/LqLddUjf2p3Qers7ekA7rXvNHe8yVNtwypRiq7UrYCwRIO_OedlKekfDXiLSxg2V73w=s180",
+		"appName": "স্তন ক্যান্সার ও স্তনের সমস্যাসমূহ",
+		"appDescription": "স্তন ক্যান্সার, স্তনের সমস্যাসমূহ ও ব্রা এর সঠিক ব্যবহার ও উপকারিতা",
+		"url": "https://play.google.com/store/apps/details?id=com.BreastCancer.health"
+	},
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/xF2ko738BH3e8LoxHuPxrobvI3w1Ark0Yys28J4yYTnUsNs7JziZK7lfiNuPCSSd3zNN=s180",
+		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
+		"appDescription": "বাংলা নববর্ষ ফটো ফ্রেম অ্যাপ",
+		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
 	},
 	
 	
