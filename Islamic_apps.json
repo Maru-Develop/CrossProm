@@ -2,7 +2,7 @@
 	
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/LiYsH3enVSyUl5c8Fm9YQEpQ-N09Lnqj3KXrRSrVql-CrdvF77U0Rcp52YMoCvz6VQ=s180-rw",
+		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180",
 		"appName": "Computer Shortcut Keys",
 		"appDescription": "Computer Shortcut keys are generally required for using to use the computers or PC users were fast.",
 		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
@@ -18,12 +18,29 @@
 	
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/Fad5D3HzZvRvZ_HvzBC9cpqoqnBGLQc5c4QbybigdblqfZePs5AfsRyCu_ceXL63gf8=s180",
-		"appName": "রমজানের সময়সূচী ২০২০",
-		"appDescription": "সেহরী ও ইফতারের সময়সূচী এবং গুরুত্বপূর্ণ দোয়া সমূহ।",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.ramadan"
+		"appIcon": "https://lh3.googleusercontent.com/uknH5Gt2vOAomi5frMV0EcVxpbi7GHX9NejzztcSTjhHP_DeSvzP7BZkXrgr24wYCzY=s180",
+		"appName": "ইমাম মাহদী (আ) ও দাজ্জাল",
+		"appDescription": "ইমাম মাহদী (আ) এর আগমন ও কিয়ামতের আলামত",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.Imam_Mahdi"
 	},
-		
+	
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/Qv5vmhAP3FksqQ3q4vxJ9oCj2RcTRnMfemgsFoxmHu0U5mmsLfzdz3QBHlbdhA5f_ZI=s180",
+		"appName": "Al Quran - Tafsir",
+		"appDescription": "English, Bangla & Indonesian Language",
+		"url": "https://play.google.com/store/apps/details?id=com.Tafsir.Quran"
+	},
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/QOtge5SbJdzysLxuqf4fuvkLTAd2BeNKfwDC_vd72mPY7OVr0Rhqg4WIE_g2bfbSfQg=s180",
+		"appName": "জয় বাংলা ফটো ফ্রেম",
+		"appDescription": "প্রোফাইলে জয় বাংলা ফটো ফ্রেম যুক্ত করুন।",
+		"url": "https://play.google.com/store/apps/details?id=com.joy_bangla.photo_frame"
+	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/sGMWgDNhtqepOGqmbQ75rYPs8SfGjuw76lWIJCx54pEK1gCHaZXT_oMRE-FF0lBUYJ2W=s180",
 		"appName": "আল্লাহর ৯৯ নাম",
@@ -53,7 +70,7 @@
 	
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/VgTH3M8RMbDf8f0YUTIPUba-MUGkuK8mDdcZohsVOhY8G5SQoc0Ekex_KyzIFnKBIg=s180-rw",
+		"appIcon": "https://lh3.googleusercontent.com/Hq2bTUAyMtbccWzfTrlpXqnGXIGpC43jvdVaxDd5O6Vizzs5XDn74rgJ_D0qWZ6TG7I=s180",
 		"appName": "বিখ্যাত ব্যক্তিদের উক্তি",
 		"appDescription": "বিখ্যাত ব্যক্তিদের উক্তি / বাণী এর বিশাল সংগ্রহ।",
 		"url": "https://play.google.com/store/apps/details?id=com.BikkhatoUkti.Bangla"
