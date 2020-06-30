@@ -1,20 +1,5 @@
 [
-	{
-		"appIcon": "https://lh3.googleusercontent.com/buf163ptwI0BczcJ-DNJP8kt4s3H1wqF170LWBY9XIGxj3SiQRFRCwVIo86X_m3YCQ=s180-rw",
-		"appName": "आयुर्वेदिक पौधे और जड़ी बूटियां",
-		"appDescription": "आयुर्वेदिक पौधे और जड़ी बूटियां - Ayurvedic Nuskhe",
-		"url": "https://play.google.com/store/apps/details?id=com.ayurvedik.paudhe.jadee_bootiyaan"
-	},
-	
-	
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/1Z2aPdkGG32bKqFZgSk6FsRSDX2U4RxRvPw5mGcmZfMilBZi9tuVXK13ARYBZEUj6Ak=s180-rw",
-		"appName": "Indian Flag Wallpapers",
-		"appDescription": "HD Indian Flag Images & Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.flag.India"
-	},
-	
+
 	{
 		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
 		"appName": "Independence Day Frames",
@@ -25,10 +10,10 @@
 
 	
 		{
-		"appIcon": "https://lh3.googleusercontent.com/w0ljRfMgaa_N-i4hd3UvJoAaqhId1vyVycTJfsFkNK7P6zYBYLDERhVXt_ATRUhFfTM=s180-rw",
-		"appName": "Anahita HD Images",
-		"appDescription": "Huge collection of Anahita HD Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.wallpaper.anahita"
+		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
+		"appName": "Guru Purnima Frames",
+		"appDescription": "Guru Purnima Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
 	},
 	
 	
@@ -53,27 +38,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.gharelu_nuskhe"
 	},
 	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/DTLJ5-QclMsUu8HIgEMo2WBHaojngzUvMia-69G3ZiYJov8GNOIPleagZPWsqemFUAku=s180-rw",
-		"appName": "दांपत्य जीवन के अधिकार",
-		"appDescription": "Dampatya Jeevan ke Adhikar in Hindi",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.dampatya_jeevan"
-	},
-
-	{
-		"appIcon": "https://lh3.googleusercontent.com/ro_4hyLyern5Io00yL9FAoV6cVGnn6_r_3knKqNYGk5pp2MO9YAEHdafXCIAQIb7Lbg=s180-rw",
-		"appName": "योगासन | Yoga",
-		"appDescription": "Yoga in Hindi",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.yogasan"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/XO5mCcOlKZdZJcbTiQLzCtGneRYgBVokY-gm2TIkKaR3lcY5Rae5DcU1XN3WCEn_xSp9=s180-rw",
-		"appName": "SwagWord - Fancy Text",
-		"appDescription": "Stylish Text Fonts Generator",
-		"url": "https://play.google.com/store/apps/details?id=com.swag.stylish.word"
-	},
-	
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/fCn_SL73BmtAIb_CAEF7gU3WMtrrCimwj2WGqebqoOx3cHG8ErypzplNtkaAv7S3TPI=s180",
@@ -82,18 +46,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.purush_rog.upchar"
 	},
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/XN8qCCmhvbujz2S9DWQNoRdWV6do6K3dG0REXSudsWOuTOclBF-fyT080vNmM9F4e8g=s180",
-		"appName": "30 दिनों में वजन घटाएं",
-		"appDescription": "Lose weight in 30 days",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.wajan_kam_kare"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/M5HLgW75BhQgbPMyloZmilcbY5tuVqZp4wSRSNZMn4Yk7eQxTh3fvjIvAJu7QuMFqw=s180-rw",
-		"appName": "पत्नी के शरीर के रहस्य",
-		"appDescription": "यह एप्लीकेशन 18+ साल के युवको के लिए है |",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.womens_body_secret_hindi"
-	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/mXpdCpCQ623rWDX-yUhacP6MQPHbWIW-EjvZmFqAcScgoY7tkJ0k8dIxwUeDJar0dlvg=s180-rw",
@@ -102,11 +54,12 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.ladki_patane_ke_tarike"
 	},
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/T_Xtlksg2DSeQxobThR8N0XSHlc2bhyZZgSGHBCLMJ1F8MjMKW_hVAvQRaslWd2FXlrm=s180-rw",
-		"appName": "चाणक्य निति | Chanakya Niti",
-		"appDescription": "Chanakya niti application contains motivational and inspirational Chanakya thoughts and quotes",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.chanakya_niti"
+	
+		{
+		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
+		"appName": "Guru Purnima Frames",
+		"appDescription": "Guru Purnima Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
 	},
 	
 	
@@ -115,13 +68,6 @@
 		"appName": "२८ घरेलु नुख्से निकल देगे बिस्तर में औरत के चीख",
 		"appDescription": "यह एप्लीकेशन 18+ साल के युवको के लिए है |",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.auraat_cheekh"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/LiYsH3enVSyUl5c8Fm9YQEpQ-N09Lnqj3KXrRSrVql-CrdvF77U0Rcp52YMoCvz6VQ=s180-rw",
-		"appName": "Computer Shortcut Keys",
-		"appDescription": "All Computer Software Shortcut Keys App",
-		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
 	}
 	
 	]
