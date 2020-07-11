@@ -15,6 +15,21 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.india"
 	},
 	
+		{
+		"appIcon": "https://lh3.googleusercontent.com/DTLJ5-QclMsUu8HIgEMo2WBHaojngzUvMia-69G3ZiYJov8GNOIPleagZPWsqemFUAku=s180-rw",
+		"appName": "दांपत्य जीवन के अधिकार",
+		"appDescription": "Dampatya Jeevan ke Adhikar in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.dampatya_jeevan"
+	},
+
+
+	{
+		"appIcon": "https://lh3.googleusercontent.com/ro_4hyLyern5Io00yL9FAoV6cVGnn6_r_3knKqNYGk5pp2MO9YAEHdafXCIAQIb7Lbg=s180-rw",
+		"appName": "योगासन | Yoga",
+		"appDescription": "Yoga in Hindi",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.yogasan"
+	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
 		"appName": "Nag Panchami Frames",
@@ -22,11 +37,17 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
 	},
 	
+		{
+		"appIcon": "https://lh3.googleusercontent.com/vTcCyabAhOcxYjJ4Un0l4-IHwhzClNMxyyavsA7CMTtv-htRv1OlJ6OrnYonLz2fBA=s180-rw",
+		"appName": "आयुर्वेदिक घरेलू नुस्खे",
+		"appDescription": "Ayurvedic Gharelu Nuskhe & Upchar",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.gharelu_nuskhe"
+	},
 	
 		{
 		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
-		"appName": "Independence Day Frames",
-		"appDescription": "15 August Photo Editor",
+		"appName": "15 August Photo Editor",
+		"appDescription": "Independence Day Frames",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
 	},
 	{
