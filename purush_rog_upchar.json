@@ -7,13 +7,13 @@
 	},
 	
 	
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
-		"appName": "Guru Purnima Frames",
-		"appDescription": "Guru Purnima Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
+		"appName": "Nag Panchami Frames",
+		"appDescription": "Nag Panchami Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
 	},
+	
 	
 
 		{
@@ -47,12 +47,14 @@
 	},
 	
 	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
-		"appName": "Guru Purnima Frames",
-		"appDescription": "Guru Purnima Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
+		"appName": "Nag Panchami Frames",
+		"appDescription": "Nag Panchami Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
 	},
+	
 	
 	
 		{
@@ -88,18 +90,11 @@
 	},
 	
 	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
-		"appName": "Guru Purnima Frames",
-		"appDescription": "Guru Purnima Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
-	},
-	
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
-		"appName": "Independence Day Frames",
-		"appDescription": "15 August Photo Editor",
+		"appName": "15 August Photo Editor",
+		"appDescription": "Independence Day Frames",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
 	},
 	
