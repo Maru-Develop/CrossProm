@@ -7,16 +7,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
 	},
 	
-
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
-		"appName": "Guru Purnima Frames",
-		"appDescription": "Guru Purnima Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
-	},
-	
-	
 	
 		{
 		"appIcon": "https://lh3.googleusercontent.com/DzJZbqoSBTJhWGiEI7ns2PoA0_DPP2FryEllXSH5M4CbseTDrZZLjDh5Nieej_qf5g=s180",
@@ -24,6 +14,14 @@
 		"appDescription": "Holi Wish Photo Frame is a free photo editor app",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.india"
 	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
+		"appName": "Nag Panchami Frames",
+		"appDescription": "Nag Panchami Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
+	},
+	
 	
 		{
 		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
@@ -55,12 +53,13 @@
 	},
 	
 	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/I6tqJIi3jq4Vw7vU1JCLUZMyLTaYvvoSZupHir6oOMCK_D1xpiMOIzQnMRqsQZ-hbfE=s180-rw",
-		"appName": "Guru Purnima Frames",
-		"appDescription": "Guru Purnima Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
+		"appName": "Nag Panchami Frames",
+		"appDescription": "Nag Panchami Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
 	},
+	
 	
 	
 	{
