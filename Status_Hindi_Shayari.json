@@ -1,22 +1,30 @@
 [
-
 	{
-		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
-		"appName": "Independence Day Frames",
-		"appDescription": "15 August Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
+		"appIcon": "https://lh3.googleusercontent.com/buf163ptwI0BczcJ-DNJP8kt4s3H1wqF170LWBY9XIGxj3SiQRFRCwVIo86X_m3YCQ=s180-rw",
+		"appName": "आयुर्वेदिक पौधे और जड़ी बूटियां",
+		"appDescription": "आयुर्वेदिक पौधे और जड़ी बूटियां - Ayurvedic Nuskhe",
+		"url": "https://play.google.com/store/apps/details?id=com.ayurvedik.paudhe.jadee_bootiyaan"
 	},
 	
 	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
+		"appName": "Nag Panchami Frames",
+		"appDescription": "Nag Panchami Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
+	},
+	
+	
+
 		{
-		"appIcon": "https://lh3.googleusercontent.com/DzJZbqoSBTJhWGiEI7ns2PoA0_DPP2FryEllXSH5M4CbseTDrZZLjDh5Nieej_qf5g=s180",
-		"appName": "HOLI WISHING FRAME",
-		"appDescription": "Holi Wish Photo Frame is a free photo editor app",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.india"
+		"appIcon": "https://lh3.googleusercontent.com/1Z2aPdkGG32bKqFZgSk6FsRSDX2U4RxRvPw5mGcmZfMilBZi9tuVXK13ARYBZEUj6Ak=s180-rw",
+		"appName": "Indian Flag Wallpapers",
+		"appDescription": "HD Indian Flag Images & Wallpapers",
+		"url": "https://play.google.com/store/apps/details?id=com.flag.India"
 	},
 	
 		{
-		"appIcon": "https://lh3.googleusercontent.com/DTLJ5-QclMsUu8HIgEMo2WBHaojngzUvMia-69G3ZiYJov8GNOIPleagZPWsqemFUAku=s180-rw",
+		"appIcon": "https://lh3.googleusercontent.com/SzzslNpQDaWzj4ykpGSfomOZhR1eYKbuAjg4HBYTnSUj9GQg3vt21jHokL_Iw931Uig=s180",
 		"appName": "दांपत्य जीवन के अधिकार",
 		"appDescription": "Dampatya Jeevan ke Adhikar in Hindi",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.dampatya_jeevan"
@@ -30,6 +38,16 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.yogasan"
 	},
 	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
+		"appName": "Independence Day Frames",
+		"appDescription": "15 August Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
+	},
+	
+	
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
 		"appName": "Nag Panchami Frames",
@@ -37,19 +55,16 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
 	},
 	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/vTcCyabAhOcxYjJ4Un0l4-IHwhzClNMxyyavsA7CMTtv-htRv1OlJ6OrnYonLz2fBA=s180-rw",
-		"appName": "आयुर्वेदिक घरेलू नुस्खे",
-		"appDescription": "Ayurvedic Gharelu Nuskhe & Upchar",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.gharelu_nuskhe"
-	},
+	
 	
 		{
-		"appIcon": "https://lh3.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180",
-		"appName": "15 August Photo Editor",
-		"appDescription": "Independence Day Frames",
-		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
+		"appIcon": "https://lh3.googleusercontent.com/XO5mCcOlKZdZJcbTiQLzCtGneRYgBVokY-gm2TIkKaR3lcY5Rae5DcU1XN3WCEn_xSp9=s180-rw",
+		"appName": "SwagWord - Fancy Text",
+		"appDescription": "Stylish Text Fonts Generator",
+		"url": "https://play.google.com/store/apps/details?id=com.swag.stylish.word"
 	},
+	
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/vTcCyabAhOcxYjJ4Un0l4-IHwhzClNMxyyavsA7CMTtv-htRv1OlJ6OrnYonLz2fBA=s180-rw",
 		"appName": "आयुर्वेदिक घरेलू नुस्खे",
@@ -58,13 +73,38 @@
 	},
 	
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/fCn_SL73BmtAIb_CAEF7gU3WMtrrCimwj2WGqebqoOx3cHG8ErypzplNtkaAv7S3TPI=s180",
-		"appName": "Purush Rog Ke Upchar",
-		"appDescription": "पुरुष गुप्त रोग के अचूक उपाय",
-		"url": "https://play.google.com/store/apps/details?id=com.purush_rog.upchar"
+		{
+		"appIcon": "https://lh3.googleusercontent.com/V3QhBx0FgAcUfSg7B6i582vvYzlZ-4tSx7MSdhR-CdXUOT_egz8IZ2ymZVGDuh-XgOg=s180-rw",
+		"appName": "Hindi Love Shayari",
+		"appDescription": "Install and Enjoy Awesome Hindi Status and Hindi Shayari.",
+		"url": "https://play.google.com/store/apps/details?id=com.status.hindi.shayari"
 	},
 	
+		
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180",
+		"appName": "Computer Shortcut Keys",
+		"appDescription": "All Computer Software Shortcut Keys App",
+		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
+	},
+	
+	
+	
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/wh1jL6N9XzrfO5D25fY4WXOp2YDO_uAd7NVJ6G7PIGMB6ZZX30stakXs5YHwVEkSHA=s180-rw",
+		"appName": "Hindi Jokes, Shayari & Status",
+		"appDescription": "In this app you have been given lots of Shayari, Status & Chutkule.",
+		"url": "https://play.google.com/store/apps/details?id=com.FunnyJokes.funnyhindijokes"
+	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/M5HLgW75BhQgbPMyloZmilcbY5tuVqZp4wSRSNZMn4Yk7eQxTh3fvjIvAJu7QuMFqw=s180-rw",
+		"appName": "पत्नी के शरीर के रहस्य",
+		"appDescription": "यह एप्लीकेशन 18+ साल के युवको के लिए है |",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.womens_body_secret_hindi"
+	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/mXpdCpCQ623rWDX-yUhacP6MQPHbWIW-EjvZmFqAcScgoY7tkJ0k8dIxwUeDJar0dlvg=s180-rw",
@@ -74,20 +114,30 @@
 	},
 	
 	
+	
+
 	{
-		"appIcon": "https://lh3.googleusercontent.com/hIQl-jCab5fTVJK1he81Xg_7Db4okyzeVEWofPPPpJA-1c5VxrpfdVWzmVDHFWpCM1WA=s180",
-		"appName": "Nag Panchami Frames",
-		"appDescription": "Nag Panchami Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.nag_panchami"
+		"appIcon": "https://lh3.googleusercontent.com/XN8qCCmhvbujz2S9DWQNoRdWV6do6K3dG0REXSudsWOuTOclBF-fyT080vNmM9F4e8g=s180",
+		"appName": "30 दिनों में वजन घटाएं",
+		"appDescription": "Lose weight in 30 days",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.wajan_kam_kare"
 	},
 	
 	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/1csseowgzc-uvNiLAJaYy66w4im4jP-XpTN1LzSsWnYub5RGYld2Vo8xWLDqcBd9sdo=s180-rw",
+		"appName": "औरत के रोग और उपचार",
+		"appDescription": "महिला के लिए आयुर्वेदिक नुस्खे",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.auraat_cheekh"
+	},
+	
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/YNk-FJlDa2WPVGpNiBhmouKyQn2p5hUhL6BgZALnW7r6B0fMvQJtHBUb2eTwBI3r8Ew=s180-rw",
-		"appName": "२८ घरेलु नुख्से निकल देगे बिस्तर में औरत के चीख",
-		"appDescription": "यह एप्लीकेशन 18+ साल के युवको के लिए है |",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.auraat_cheekh"
+		"appIcon": "https://lh3.googleusercontent.com/T_Xtlksg2DSeQxobThR8N0XSHlc2bhyZZgSGHBCLMJ1F8MjMKW_hVAvQRaslWd2FXlrm=s180-rw",
+		"appName": "चाणक्य निति | Chanakya Niti",
+		"appDescription": "Chanakya niti application contains motivational and inspirational Chanakya thoughts and quotes",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.chanakya_niti"
 	}
+	
 	
 	]
