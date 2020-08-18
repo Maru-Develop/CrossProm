@@ -22,6 +22,20 @@
 	},
 	
 	{
+		"appIcon": "https://lh3.googleusercontent.com/MDGtpmdFinDVZ0IXNXamoFX5HDPlmDGTwC9ooHecfLOXKGOZPmUcUrWJIeRB2KrwlGia=s180-rw",
+		"appName": "Bollywood Photo Frames",
+		"appDescription": "Bollywood Actors & Actresses Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.bollywood"
+	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/WXMFhzlj1poAbYi5fqqOczQW9BIrxRUl-gtrjud_x-vsWKZ48sAkrDgf6GFagaBwSfs=s180-rw",
+		"appName": "TajMahal Photo Frame",
+		"appDescription": "Taj Mahal Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
+	},
+	
+	{
 		"appIcon": "https://lh3.googleusercontent.com/ZGJmfWAzMsfCoL0e_KMcuJKmUDNqGEOBgXVmsbde7LuwUkacW3yOIsjCd7-sWARKxqyA=s180-rw",
 		"appName": "Birthday Photo Frames",
 		"appDescription": "Birthday Wishing Photo Editor App",
