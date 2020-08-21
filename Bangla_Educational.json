@@ -66,12 +66,18 @@
 	},
 	
 		{
-		"appIcon": "https://lh3.googleusercontent.com/CSfHijU_qNvO86NZrcwT_6lwFOol2JeKL6AXrliEkV9fH_AWJNxDoXuAJzX7yRh4CHI=s180-rw",
+		"appIcon": "https://lh3.googleusercontent.com/zJc_auX6Gw6Goj3D36aPD-spJGVPDURXYUXkiyOQ0nS-Wv1A358yisIjmvbzJI-3dgs=s180",
 		"appName": "Bangladeshi Frame",
 		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	},
 	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/w5w5Ow4OdIDX6_4zK-VRdC5P5QyC-ceaKtRbuNSWC7BvQwzNdRBCeL0b3DWfQn44QgwH=s180",
+		"appName": "Joy Bangla Frame",
+		"appDescription": "Awami League & Joy Bangla Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.joy_bangla.photo_frame"
+	},
 	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/mNO8K330F3YPUIMAzKG3l5sGRTvBPrqYy6dKDXAtbIAvqANT0MwRMZmZ4Fj_Lj-j52g=s180",
