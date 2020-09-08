@@ -19,16 +19,12 @@
 		"appDescription": "Birthday Wishing Photo Editor App",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday"
 	},
-	
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/w0ljRfMgaa_N-i4hd3UvJoAaqhId1vyVycTJfsFkNK7P6zYBYLDERhVXt_ATRUhFfTM=s180-rw",
-		"appName": "Anahita HD Images",
-		"appDescription": "Huge collection of Anahita HD Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.wallpaper.anahita"
-	},
-	
-		
+	{		
+		"appIcon": "https://lh3.googleusercontent.com/EU1lpviQhMNdUnXhtfX0eUmFrqAFiJzExLXx3es9AkbVKrf89_BHJ1cjaicIYTS2TA_H=s180-rw",
+		"appName": "HD Images of Anahita",
+		"appDescription": "Anahita Hashemzadeh HD Wallpapers",
+		"url": "https://play.google.com/store/apps/details?id=com.wallpaper.Anahita"
+	},	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/sGMWgDNhtqepOGqmbQ75rYPs8SfGjuw76lWIJCx54pEK1gCHaZXT_oMRE-FF0lBUYJ2W=s180",
 		"appName": "আল্লাহর ৯৯ নাম",
