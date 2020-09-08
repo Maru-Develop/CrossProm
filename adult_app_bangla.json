@@ -90,26 +90,12 @@
 	},
 		
 	{
-		"appIcon": "https://lh3.googleusercontent.com/Z29jI_UZF-5OJ3URQRTTCQnOhGqP3kOwNaVLx04JgyPQV65Y9e-4rmQlH89kEpbfNI8=s180-rw",
-		"appName": "৭ দিনে ইংরেজি শিখুন",
-		"appDescription": "Learning English in bangla",
-		"url": "https://play.google.com/store/apps/details?id=com.English.Learning"
-	},
-	
-
-	
-	{
 		"appIcon": "https://lh3.googleusercontent.com/Hq2bTUAyMtbccWzfTrlpXqnGXIGpC43jvdVaxDd5O6Vizzs5XDn74rgJ_D0qWZ6TG7I=s180",
 		"appName": "বিখ্যাত ব্যক্তিদের উক্তি",
 		"appDescription": "বিখ্যাত ব্যক্তিদের উক্তি / বাণী এর বিশাল সংগ্রহ।",
 		"url": "https://play.google.com/store/apps/details?id=com.BikkhatoUkti.Bangla"
 	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/_7yn0QpxchWw_CCwMf6lcPUoA0ImOHU7GX9yD2RJwpuVucgvIr3pm3hVXPW-o7XxEA=s180-rw",
-		"appName": "ছেলেদের ফ্যাশন টিপস",
-		"appDescription": "ছেলেদের ফ্যাশন, লাইফস্টাইল ও স্মার্ট হওয়ার টিপস",
-		"url": "https://play.google.com/store/apps/details?id=com.bangla.mens_lifestyle"
-	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
 		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
@@ -125,9 +111,9 @@
 	},
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/QOtge5SbJdzysLxuqf4fuvkLTAd2BeNKfwDC_vd72mPY7OVr0Rhqg4WIE_g2bfbSfQg=s180",
-		"appName": "জয় বাংলা ফটো ফ্রেম",
-		"appDescription": "Joy Bangla Photo Frame",
+		"appIcon": "https://lh3.googleusercontent.com/w5w5Ow4OdIDX6_4zK-VRdC5P5QyC-ceaKtRbuNSWC7BvQwzNdRBCeL0b3DWfQn44QgwH=s180",
+		"appName": "Joy Bangla Photo Frame",
+		"appDescription": "জয় বাংলা ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.joy_bangla.photo_frame"
 	},
 	{
@@ -143,13 +129,8 @@
 		"appName": "HD Images of Anahita",
 		"appDescription": "Anahita Hashemzadeh HD Wallpapers",
 		"url": "https://play.google.com/store/apps/details?id=com.wallpaper.Anahita"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/md8ycQOYoX3Zidj82DjweVpX3nAI-i0SG4TxrvKeqK6snGD_AuBmdIrTAW8YFBKEfv9s=s180",
-		"appName": "সুন্দরী মেয়ে পটানোর টিপস",
-		"appDescription": "মেয়ে পটানোর সহজ কৌশল অ্যাপ এ মেয়েদের পটানোর সকল কৌশল নিয়ে আলোচনা করা হয়েছে।",
-		"url": "https://play.google.com/store/apps/details?id=com.meye_potano.tips"
 	}
+	
+	
 	
 ]
