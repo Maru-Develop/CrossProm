@@ -7,8 +7,15 @@
 		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
 	},
 	
+	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/0WPPYTs5sXGmTFfPbJjzlaQz12sM11hj12xbaDP4zx6W2OkvOPtyzpzij1g-NrgXDQ=s180-rw",
+		"appIcon": "https://lh3.googleusercontent.com/sEQHygFTO7BOqVwu9DwZSxqBFShrBxxmfqnPvvyykFeVvveNKx74NysityjsQVlK1w=s180",
+		"appName": "Durga Puja Photo Editor",
+		"appDescription": "Durga Pooja Photo Frames",
+		"url": "https://play.google.com/store/apps/details?id=com.durga_puja.photo_frame"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/owvzfjFemY_mipXhiJnyqQTbKYxayK7afp80qma_ujEVqA0TWjDso3ON217SAlgxxwM=s180-rw",
 		"appName": "Navratri Photo Editor",
 		"appDescription": "Dussehra & Navratri Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.navratri.photo_frame"
