@@ -13,7 +13,12 @@
 		"url": "https://play.google.com/store/apps/details?id=com.diwali.photo_frame"
 	},
 
-	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/TQCLICVkfQu0OaVJ1fA7U2vARGCBc6v8WK0nhC1j_jgNHhDa6fABNmgu_AzqyeXeKlc=s180-rw",
+		"appName": "Indian Flag Text Frame",
+		"appDescription": "Indian Flag Text Photo Editor App",
+		"url": "https://play.google.com/store/apps/details?id=com.flag_text.photo_frame"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/sEQHygFTO7BOqVwu9DwZSxqBFShrBxxmfqnPvvyykFeVvveNKx74NysityjsQVlK1w=s180",
 		"appName": "Durga Puja Photo Editor",
