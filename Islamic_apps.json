@@ -7,7 +7,18 @@
 		"appDescription": "Computer Shortcut keys are generally required for using to use the computers or PC users were fast.",
 		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/fTmNTxrRtXqRaltdBWSAg2ru7-x5NeAPpoantz-GGShy1-vJfOw0XTMyfX4GCdcK9Yw=s180",
+		"appName": "১৬ ডিসেম্বর ফটো ফ্রেম",
+		"appDescription": "বিজয় দিবস ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.bijoy_dibosh.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/3UtJj3aeJwWwOY3WK99sw1ambrVv-bGq-Ivl7c60S3yIT96lNJZmaSK4-uTGtRCQhQ=s180",
+		"appName": "২১শে ফেব্রুয়ারি ফটো ফ্রেম",
+		"appDescription": "২১শে ফেব্রুয়ারি মাতৃভাষা দিবসের ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.ekushe_february.photo_frame"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
 		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
@@ -60,28 +71,19 @@
 		"appDescription": "অর্থসহ ফজিলত, নামাজ শিক্ষা ও দোয়া",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.Allah"
 	},
-	
-		
-	
-
-	
-		{
+	{
 		"appIcon": "https://lh3.googleusercontent.com/tMglHrg_eGyxlnio_hwJwzCRL5gXNgnoaLkQqDaetMtXhTvaXae-ZWdnKJ8SP3ECTbI0=s180",
 		"appName": "মহানবী (সাঃ) এর জীবনী",
 		"appDescription": "মহানবী হযরত মুহাম্মাদ (সাঃ) এর সম্পূর্ণ জীবনী",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.jiboni_Mohanobi"
 	},
-	
-	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/h2xKRk-puV-dlVuORAXww6f5xnZvBt7aCZJUfT55AtZ5zj1L0fL2CLXpdsFuzNDzpJY=s180-rw",
 		"appName": "কুরআনের গল্প",
 		"appDescription": "কুরআনের গল্প ও ইসলামের ঘটনা",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.Quran_er_golpo"
 	},
-	
-	
-	
+
 	{
 		"appIcon": "https://lh3.googleusercontent.com/Hq2bTUAyMtbccWzfTrlpXqnGXIGpC43jvdVaxDd5O6Vizzs5XDn74rgJ_D0qWZ6TG7I=s180",
 		"appName": "বিখ্যাত ব্যক্তিদের উক্তি",
@@ -94,24 +96,23 @@
 		"appDescription": "মিজানুর রহমান আজহারীর জীবনী।",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.Mizanur_Rahman_Azhari"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
+		"appName": "Bangladeshi Frame",
+		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/mNO8K330F3YPUIMAzKG3l5sGRTvBPrqYy6dKDXAtbIAvqANT0MwRMZmZ4Fj_Lj-j52g=s180",
 		"appName": "কবিরা গুনাহ ও মুক্তির উপায়",
 		"appDescription": "Kabira Gunah in Islam.",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.kabira_gunah"
 	},
-	
-	
-	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/m4f2t4F2dBVWP5Qf7n2_RTH6EVdfJ-OyKH-7PhbIvwuf51JzslBM6jYyJI69YylqMz0=s180-rw",
 		"appName": "নামাজ শিক্ষা",
 		"appDescription": "নামাজ শিক্ষা ও প্রয়োজনীয় নিয়ত",
 		"url": "https://play.google.com/store/apps/details?id=com.SMapps.Namaj_shikkha"
 	}
-	
-	
-	
 	
 ]
