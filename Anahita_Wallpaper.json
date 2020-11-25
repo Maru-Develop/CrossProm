@@ -19,6 +19,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.christmas.photo_editor"
 	},
 	
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/t5UyprTB-jUJk1VpB0IIVFQ134CLOwyktelkE8mqjkZ9vBNdmNCETAVeWjgSwnf8PQc=s180-rw",
 		"appName": "Desi Maal Hot Photo",
@@ -85,7 +86,19 @@
 		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	},
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+	},
+	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/PwXIa-JIfsEIl-Z7LwyAsvUgEElo9vhtgDCzX0r8CLetw5GeawBnT9wS1YHMfuzOOl43=s180-rw",
+		"appName": "Christmas Photo Editor",
+		"appDescription": "Christmas Photo Frame 2020",
+		"url": "https://play.google.com/store/apps/details?id=com.christmas.photo_editor"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180",
 		"appName": "Computer Shortcut Keys",
