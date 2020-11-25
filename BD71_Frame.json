@@ -33,7 +33,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.desi_maal_hd"
 	},
 	
-		{
+	{
 		"appIcon": "https://lh3.googleusercontent.com/G-FiWFuj5sD7IWJKUnEqIZRGD-8LToHeiiCgpzQTzjslfx_g6vvFe0Lgw-XvsUlYRA=s180-rw",
 		"appName": "Hall Photo Frames 3D",
 		"appDescription": "Hall & Home Interior Photo Editor",
@@ -70,6 +70,18 @@
 		"appName": "TajMahal Photo Frame",
 		"appDescription": "Taj Mahal Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/PwXIa-JIfsEIl-Z7LwyAsvUgEElo9vhtgDCzX0r8CLetw5GeawBnT9wS1YHMfuzOOl43=s180-rw",
+		"appName": "Christmas Photo Editor",
+		"appDescription": "Christmas Photo Frame 2020",
+		"url": "https://play.google.com/store/apps/details?id=com.christmas.photo_editor"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
 	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/ZGJmfWAzMsfCoL0e_KMcuJKmUDNqGEOBgXVmsbde7LuwUkacW3yOIsjCd7-sWARKxqyA=s180-rw",
