@@ -26,6 +26,12 @@
 		"url": "https://play.google.com/store/apps/details?id=com.ekushe_february.photo_frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/PwXIa-JIfsEIl-Z7LwyAsvUgEElo9vhtgDCzX0r8CLetw5GeawBnT9wS1YHMfuzOOl43=s180-rw",
 		"appName": "Christmas Photo Editor",
 		"appDescription": "Christmas Photo Frame 2020",
@@ -88,18 +94,19 @@
 		"appDescription": "Kabira Gunah in Islam.",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.kabira_gunah"
 	},
-	
 
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/LqLddUjf2p3Qers7ekA7rXvNHe8yVNtwypRiq7UrYCwRIO_OedlKekfDXiLSxg2V73w=s180",
 		"appName": "স্তন ক্যান্সার ও স্তনের সমস্যাসমূহ",
 		"appDescription": "স্তন ক্যান্সার, স্তনের সমস্যাসমূহ ও ব্রা এর সঠিক ব্যবহার ও উপকারিতা",
 		"url": "https://play.google.com/store/apps/details?id=com.BreastCancer.health"
 	},
-	
-
-	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/4ib0FPLqMwS5jw7-lW_BIRAeniiO6CYFx_Qr53vqX35-58O1W4Rgn5vhmfsvbOFlEjA=s180",
 		"appName": "বুকের দুধ বাড়ানোর উপায়",
