@@ -79,7 +79,7 @@
 		"appDescription": "Decorate your memories with Romantic Love Photo Frame.",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.love"
 	},
-		{
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
 		"appName": "Bangladeshi Frame",
 		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
@@ -113,8 +113,6 @@
 		"appDescription": "মহানবী হযরত মুহাম্মাদ (সাঃ) এর সম্পূর্ণ জীবনী",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.jiboni_Mohanobi"
 	},
-	
-	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/w5w5Ow4OdIDX6_4zK-VRdC5P5QyC-ceaKtRbuNSWC7BvQwzNdRBCeL0b3DWfQn44QgwH=s180",
 		"appName": "Joy Bangla Photo Frame",
@@ -134,6 +132,18 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.ladki_patane_ke_tarike"
 	},
 	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/PwXIa-JIfsEIl-Z7LwyAsvUgEElo9vhtgDCzX0r8CLetw5GeawBnT9wS1YHMfuzOOl43=s180-rw",
+		"appName": "Christmas Photo Editor",
+		"appDescription": "Christmas Photo Frame 2020",
+		"url": "https://play.google.com/store/apps/details?id=com.christmas.photo_editor"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/7TSkOyDEcyA4Ciz8GE-lKTz8lZmpqdWRUHRqRX4s0_tA9dymz4EDhwh6EpkuD-K74A=s180",
 		"appName": "সুন্দরী মেয়ে পটানোর টিপস",
