@@ -19,23 +19,29 @@
 		"appDescription": "Hall & Home Interior Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.hall"
 	},
+        {
+		"appIcon": "https://lh3.googleusercontent.com/t5UyprTB-jUJk1VpB0IIVFQ134CLOwyktelkE8mqjkZ9vBNdmNCETAVeWjgSwnf8PQc=s180-rw",
+		"appName": "Desi Maal Hot Photo",
+		"appDescription": "HD Indian Hot Girls Photo & Wallpapers",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.desi_maal_hd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/gQEIeAckpQk71C6RvA4sUp1sv0ekpCnGou_SIKN1As_BRKbLucoHirxlO0xUhTWsDqE=s180",
+		"appName": "Christmas Photo Editor",
+		"appDescription": "Christmas Photo Frame 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.christmas.photo_editor"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/PJmQJXlDmHZ-ifWDJqkIovzHyqp6ndi7y7grUQlhHj5UvJMD5JrjDD9w1cbDJODNToQF=s180-rw",
 		"appName": "Hoarding Photo Frames",
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
-	},
+	}, 
 	{
 		"appIcon": "https://lh3.googleusercontent.com/3hNNOZNrWDpFN9fMP594Pj5F5PHeis_ArRcRGQi9C4H-y3-E1gFYeXMFG9lvaMen6BQ=s180-rw",
 		"appName": "Fire Text Photo Frame",
 		"appDescription": "3D Stylish Fire Text Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.fire_text.photo_frame"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/MDGtpmdFinDVZ0IXNXamoFX5HDPlmDGTwC9ooHecfLOXKGOZPmUcUrWJIeRB2KrwlGia=s180-rw",
-		"appName": "Bollywood Photo Frames",
-		"appDescription": "Bollywood Actors & Actresses Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.bollywood"
 	},
 	
 	{
@@ -44,7 +50,12 @@
 		"appDescription": "Taj Mahal Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
+		"appName": "New Year Photo Editor",
+		"appDescription": "Happy New Year Photo Frames 2021",
+		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/ZGJmfWAzMsfCoL0e_KMcuJKmUDNqGEOBgXVmsbde7LuwUkacW3yOIsjCd7-sWARKxqyA=s180-rw",
 		"appName": "Birthday Photo Frames",
