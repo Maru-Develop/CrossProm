@@ -7,12 +7,6 @@
 	},
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/t5UyprTB-jUJk1VpB0IIVFQ134CLOwyktelkE8mqjkZ9vBNdmNCETAVeWjgSwnf8PQc=s180-rw",
-		"appName": "Desi Maal Hot Photo",
-		"appDescription": "HD Indian Hot Girls Photo & Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.desi_maal_hd"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/RxpQIu0ZbXIhCVJt0I5pZPJp-9DONz0ni6y8FoFWUJ_xOURQQOr-7v3BkNOkq-oItJU=s180-rw",
 		"appName": "26 January Photo Frame",
 		"appDescription": "Republic Day of India Photo Frame",
@@ -98,19 +92,19 @@
 		"appDescription": "Birthday Wishing Photo Editor App",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday"
 	},
-	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
+		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
+		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
+		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/muJ4z39qIuVuKBjMDQrtY1c154p0AtgzXGnzjeDo_1PCBYYGzDZgIKPmCr674K8n4A=s180-rw",
 		"appName": "Name on Birthday Cake",
 		"appDescription": "Birthday Cake Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday_cake"
 	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/t5UyprTB-jUJk1VpB0IIVFQ134CLOwyktelkE8mqjkZ9vBNdmNCETAVeWjgSwnf8PQc=s180-rw",
-		"appName": "Desi Maal Hot Photo",
-		"appDescription": "HD Indian Hot Girls Photo & Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.desi_maal_hd"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/gQEIeAckpQk71C6RvA4sUp1sv0ekpCnGou_SIKN1As_BRKbLucoHirxlO0xUhTWsDqE=s180",
 		"appName": "Christmas Photo Editor",
@@ -124,6 +118,18 @@
 		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
 	},
 	{
+		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
+		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
+		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
+		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
+		"appName": "Bangladeshi Frame",
+		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
+	},
+	{
 		"appIcon": "https://lh3.googleusercontent.com/LvzXWuxo7M2XxXzGvWCMFBF9gfjEkUwJ4nYx_4m-yalRnL9fOzz1AZvBHCn82hB4jA=s180",
 		"appName": "Couple Love Frames",
 		"appDescription": "Decorate your memories with Romantic Love Photo Frame.",
@@ -134,12 +140,6 @@
 		"appName": "Ladki Patane Ke Tarike",
 		"appDescription": "Ladki Ko Impress kare ! - Hindi",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.ladki_patane_ke_tarike"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/7TSkOyDEcyA4Ciz8GE-lKTz8lZmpqdWRUHRqRX4s0_tA9dymz4EDhwh6EpkuD-K74A=s180",
-		"appName": "সুন্দরী মেয়ে পটানোর টিপস",
-		"appDescription": "মেয়ে পটানোর সহজ কৌশল অ্যাপ এ মেয়েদের পটানোর সকল কৌশল নিয়ে আলোচনা করা হয়েছে।",
-		"url": "https://play.google.com/store/apps/details?id=com.meye_potano.tips"
 	}
 	
 ]
