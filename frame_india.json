@@ -5,13 +5,7 @@
 		"appDescription": "आयुर्वेदिक पौधे और जड़ी बूटियां - Ayurvedic Nuskhe",
 		"url": "https://play.google.com/store/apps/details?id=com.ayurvedik.paudhe.jadee_bootiyaan"
 	},	
-	
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/tDsht4D7WQDysulVFGWzR9PsYLYlHn-Z8t7BeauhgmWQhHPZ-8kDDKOQvR7IjDCTBGE=s180",
-		"appName": "New Year 2021 Frame",
-		"appDescription": "New Year 2021 Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.bijoy_dibosh.photo_frame"
-	},
+
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/zvLmY1VBqqxoF2_1hURI3O5ARxeRIE7sGFt4P7zQAWT5OVcrMbHbQykct22hYHAdVls=s180",
 		"appName": "Hindi Shayari, Status, Jokes",
@@ -42,12 +36,7 @@
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
-		"appName": "New Year Photo Editor",
-		"appDescription": "Happy New Year Photo Frames 2021",
-		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
-	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/MDGtpmdFinDVZ0IXNXamoFX5HDPlmDGTwC9ooHecfLOXKGOZPmUcUrWJIeRB2KrwlGia=s180-rw",
 		"appName": "Bollywood Photo Frames",
@@ -94,16 +83,17 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.yogasan"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/SQtW0BueDfjORX3ELAZkklWyhQ5W0RvPI6FW-G7LIPFV9Fg2CDO8MIOSoxZCTDihn59y=s180",
-		"appName": "New Year Photo Editor",
-		"appDescription": "Happy New Year Photo Frames 2021",
-		"url": "https://play.google.com/store/apps/details?id=com.new_year.photo_editor"
+		"appIcon": "https://play-lh.googleusercontent.com/RxpQIu0ZbXIhCVJt0I5pZPJp-9DONz0ni6y8FoFWUJ_xOURQQOr-7v3BkNOkq-oItJU=s180-rw",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day of India Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.republic_day.photo_frame"
 	},
+	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/tDsht4D7WQDysulVFGWzR9PsYLYlHn-Z8t7BeauhgmWQhHPZ-8kDDKOQvR7IjDCTBGE=s180",
-		"appName": "New Year 2021 Frame",
-		"appDescription": "New Year 2021 Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.bijoy_dibosh.photo_frame"
+		"appIcon": "https://play-lh.googleusercontent.com/HqK0_vqa-CX5w8ZfmLePYceNor5UPwVgfWYim93R_I1iei-Dq1ieRLN9orPPHX9ZqLyq=s180-rw",
+		"appName": "Valentine Photo Frame",
+		"appDescription": "2021 Valentine Week Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.valentine_day.photo_frames"
 	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/XO5mCcOlKZdZJcbTiQLzCtGneRYgBVokY-gm2TIkKaR3lcY5Rae5DcU1XN3WCEn_xSp9=s180-rw",
@@ -141,7 +131,19 @@
 		"appDescription": "महिला के लिए आयुर्वेदिक नुस्खे",
 		"url": "https://play.google.com/store/apps/details?id=com.smapps.auraat_cheekh"
 	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/RxpQIu0ZbXIhCVJt0I5pZPJp-9DONz0ni6y8FoFWUJ_xOURQQOr-7v3BkNOkq-oItJU=s180-rw",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day of India Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.republic_day.photo_frame"
+	},
 	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/HqK0_vqa-CX5w8ZfmLePYceNor5UPwVgfWYim93R_I1iei-Dq1ieRLN9orPPHX9ZqLyq=s180-rw",
+		"appName": "Valentine Photo Frame",
+		"appDescription": "2021 Valentine Week Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.valentine_day.photo_frames"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/T_Xtlksg2DSeQxobThR8N0XSHlc2bhyZZgSGHBCLMJ1F8MjMKW_hVAvQRaslWd2FXlrm=s180-rw",
 		"appName": "चाणक्य निति | Chanakya Niti",
