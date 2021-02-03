@@ -151,7 +151,12 @@
 		"appDescription": "Birthday Cake Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday_cake"
 	},
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Ik8qT7w-G8stvSPzFBly8usfoOJvES58lMBkLMqSU8a23NCbR_zIKHw5I-QTMCza6A=s180-rw",
+		"appName": "২৬ শে মার্চ ফটো ফ্রেম",
+		"appDescription": "২৬ শে মার্চ স্বাধীনতা দিবসের ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.independencedaybd.photo_frame"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
 		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
@@ -169,6 +174,12 @@
 		"appName": "২১শে ফেব্রুয়ারি ফটো ফ্রেম",
 		"appDescription": "একুশে ফেব্রুয়ারি মাতৃভাষা দিবসের ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.ekushe_february.photo_frames"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Ik8qT7w-G8stvSPzFBly8usfoOJvES58lMBkLMqSU8a23NCbR_zIKHw5I-QTMCza6A=s180-rw",
+		"appName": "২৬ শে মার্চ ফটো ফ্রেম",
+		"appDescription": "২৬ শে মার্চ স্বাধীনতা দিবসের ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.independencedaybd.photo_frame"
 	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/LvzXWuxo7M2XxXzGvWCMFBF9gfjEkUwJ4nYx_4m-yalRnL9fOzz1AZvBHCn82hB4jA=s180",
