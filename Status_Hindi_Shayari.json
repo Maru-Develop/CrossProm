@@ -11,6 +11,20 @@
 		"appDescription": "3D Photo Effect Editor App.",
 		"url": "https://play.google.com/store/apps/details?id=com.photo3dframe.photo_editor"
 	},
+	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/9JvcmP7ssrf0Iob6Ji_FhPXom_B8Bj2W8bRlx57BCkudLosgNkaRXdsGPfMSeBjdu2l4=s180-rw",
+		"appName": "Holi Photo Frame",
+		"appDescription": "2021 Holi Wishing Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.holi.photo_frames"
+	},
+	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/9JvcmP7ssrf0Iob6Ji_FhPXom_B8Bj2W8bRlx57BCkudLosgNkaRXdsGPfMSeBjdu2l4=s180-rw",
+		"appName": "Holi Photo Frame",
+		"appDescription": "2021 Holi Wishing Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.holi.photo_frames"
+	},
 		
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/yuiModtkjBXhCx1JN_fmnSD6tOsxSwb4jHRYJMOtfTDQiIssfRAxhkYBYM2C0zwe1vE=s180-rw",
@@ -42,12 +56,7 @@
 		"appDescription": "Ganesh Chaturthi Wishing Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.wishing_frame.india"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/gXidG4CrqCGHata_tgDo9y1GjEm2v7jVBi_sKwx3SapUyCXAw7bw_NgQIAwOFX4qN8E=s180-rw",
-		"appName": "Maha Shivratri Frame",
-		"appDescription": "2021 Maha Shivratri Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.maha_shivratri.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/4o2sgfgJrD-y90NIRP67qsmnQj4Fe9OWBAj2uGWg16mfMwdHCEkpf0aikdBHf84f1og=s180-rw",
 		"appName": "Janmashtami Frames",
@@ -66,12 +75,7 @@
 		"appDescription": "Independence Day Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/gXidG4CrqCGHata_tgDo9y1GjEm2v7jVBi_sKwx3SapUyCXAw7bw_NgQIAwOFX4qN8E=s180-rw",
-		"appName": "Maha Shivratri Frame",
-		"appDescription": "2021 Maha Shivratri Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.maha_shivratri.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/zvLmY1VBqqxoF2_1hURI3O5ARxeRIE7sGFt4P7zQAWT5OVcrMbHbQykct22hYHAdVls=s180",
 		"appName": "Hindi Shayari, Status, Jokes",
