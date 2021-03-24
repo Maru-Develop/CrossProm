@@ -11,7 +11,18 @@
 		"appDescription": "Pohela Boishakh Photo Frame 2021",
 		"url": "https://play.google.com/store/apps/details?id=com.nobo.photo_frame"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MX8S0avAMgYrY-Ce6iallMdw8MDWwgfUDblTk3gdKPZIehXT1681HoAOVYooCzcb78o=s180",
+		"appName": "Ugadi Photo Frames",
+		"appDescription": "Ugadi & Gudi Padwa Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.ugadi.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MX8S0avAMgYrY-Ce6iallMdw8MDWwgfUDblTk3gdKPZIehXT1681HoAOVYooCzcb78o=s180",
+		"appName": "Ugadi Photo Frames",
+		"appDescription": "Ugadi & Gudi Padwa Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.ugadi.photo_frame"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/nP0wm8xQMxW4kamojrhJgcT7w8iH_2zO85WzP2iyT1hbG5IgeGdbEncPl5YC3nX9yCo=s180",
 		"appName": "3D Photo Frame",
@@ -111,23 +122,10 @@
 	},
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
-		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
-		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
-		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
-	},
-	
-	{
 		"appIcon": "https://lh3.googleusercontent.com/PJmQJXlDmHZ-ifWDJqkIovzHyqp6ndi7y7grUQlhHj5UvJMD5JrjDD9w1cbDJODNToQF=s180-rw",
 		"appName": "Hoarding Photo Frames",
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
-		"appName": "Bangladeshi Frame",
-		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	},
 	
 	{
@@ -174,35 +172,19 @@
 		"appDescription": "Birthday Wishing Photo Editor App",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday"
 	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
-		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
-		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
-		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/muJ4z39qIuVuKBjMDQrtY1c154p0AtgzXGnzjeDo_1PCBYYGzDZgIKPmCr674K8n4A=s180-rw",
 		"appName": "Name on Birthday Cake",
 		"appDescription": "Birthday Cake Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.birthday_cake"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/wsoetrCZNuBA0Gwy_PE3TAi8QFZxB6AI1XOZ9qTULZ7Q50HTHypNO5do6dgNX85ilsIC=s180",
-		"appName": "২৬ শে মার্চ ফটো ফ্রেম",
-		"appDescription": "২৬ শে মার্চ স্বাধীনতা দিবসের ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.independence.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
 		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
 		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
 		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
-		"appName": "Bangladeshi Frame",
-		"appDescription": "সকল দিবসের প্রোফাইল ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	},
 	
 	{
