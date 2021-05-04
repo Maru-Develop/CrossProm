@@ -11,23 +11,12 @@
 		"appDescription": "Miss You Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.missyou.photo_frame"
 	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/yWZX2FLpnqBL34iJlN3dxB3BBjrQ87d8l-4OfdJdDDM6UsPWw253-nzHXGmuiF13UR4=s180-rw",
 		"appName": "Rama Navami Frame",
 		"appDescription": "Sri Ram Navami Photo Frame 2021",
 		"url": "https://play.google.com/store/apps/details?id=com.ram_navami.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/yWZX2FLpnqBL34iJlN3dxB3BBjrQ87d8l-4OfdJdDDM6UsPWw253-nzHXGmuiF13UR4=s180-rw",
-		"appName": "Rama Navami Frame",
-		"appDescription": "Sri Ram Navami Photo Frame 2021",
-		"url": "https://play.google.com/store/apps/details?id=com.ram_navami.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/izdBKu4SJwo3q2yCQLuZvGNUiY5YMxTgEAXNj7Po1jeA9FvKP5AMWADvkpbYBsiow9De=s180-rw",
-		"appName": "Mahavir Jayanti Frame",
-		"appDescription": "Mahavir Jayanti Wishing Photo Frame 2021",
-		"url": "https://play.google.com/store/apps/details?id=com.mahavir.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/izdBKu4SJwo3q2yCQLuZvGNUiY5YMxTgEAXNj7Po1jeA9FvKP5AMWADvkpbYBsiow9De=s180-rw",
@@ -55,10 +44,16 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo3dframe.photo_editor"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/R4kUbDNJE3aZ3QxTHjm6gzIzB5Yo9Y7jSdMgQ5Qp6EabsASri4E_dHP2aEHROfSmImU=s180-rw",
-		"appName": "Ramadan Photo Frames",
-		"appDescription": "2021 Ramadan Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+		"appIcon": "https://play-lh.googleusercontent.com/WFJajaMqE6h1VX2eh_9ahU8YFHTlrhRwlkTwwK-eGafnyySaMu7lSpSv2gLV1cJyJw3j=s180-rw",
+		"appName": "Pregnancy Ke Lakshan",
+		"appDescription": "प्रेगनेंसी के लक्षण & टिप्स",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.pregnancyguide"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/WFJajaMqE6h1VX2eh_9ahU8YFHTlrhRwlkTwwK-eGafnyySaMu7lSpSv2gLV1cJyJw3j=s180-rw",
+		"appName": "प्रेगनेंसी के लक्षण & टिप्स",
+		"appDescription": "Pregnancy Ke Lakshan & Pregnancy Guide",
+		"url": "https://play.google.com/store/apps/details?id=com.smapps.pregnancyguide"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/i4Opt9PuULe6cEcmO9gkFoF7is9pgsVTjnTpnfJoCCCxTRnShHW0oPqcI464x0JgzwY=s180-rw",
