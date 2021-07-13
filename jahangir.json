@@ -6,40 +6,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.missyou.photo_editor"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},{
-		"appIcon": "https://play-lh.googleusercontent.com/5jG2uOcqvyMTrDUFvOdb5WqttXMx9jIJidmiuJuR2gq03fVKzahZIezSnOBES8fBBg=s180",
-		"appName": "Rath Yatra Photo Frame",
-		"appDescription": "Jagannath Rath Yatra Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.jagannathrathyatra"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/mXpdCpCQ623rWDX-yUhacP6MQPHbWIW-EjvZmFqAcScgoY7tkJ0k8dIxwUeDJar0dlvg=s180",
 		"appName": "लड़की पटाने के तरीके",
 		"appDescription": "Ladki Patane Ke Tarike in Hindi",
@@ -101,19 +67,7 @@
 		"appDescription": "4th July American Independence Day Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.usa.frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ccTmpgy8p-R0-p6RfRjMf0x3OVNxvKxFV4FsFr9rNJ3wuAQ3vhOtrVxhIfjf1QX3rVJM=s180-rw",
-		"appName": "USA Independence Day Frame",
-		"appDescription": "4th July American Independence Day Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.usa.frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ccTmpgy8p-R0-p6RfRjMf0x3OVNxvKxFV4FsFr9rNJ3wuAQ3vhOtrVxhIfjf1QX3rVJM=s180-rw",
-		"appName": "USA Independence Day Frame",
-		"appDescription": "4th July American Independence Day Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.usa.frame"
-	},
-	
+
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/pHMHOTaear0-29uYWH_ZGTsFSKHp_Ezl-qu0ZEzMxkVBG5uaXG-VPMICo_AAr6Ao-CI=s180-rw",
 		"appName": "Eid ul Adha Photo Frame",
@@ -196,6 +150,12 @@
 		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/hk7KZZRDmNmW4iC2SAQEnpuGQKess3BVTfJhpNkbeedI_mw-8FiNiCNGK4gl5Bkm=s180-rw",
+		"appName": "15 August Photo Frame",
+		"appDescription": "Independence Day Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.independence_day_india.frame"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/Oa7dVmZaxy2s2vThwdL-Qd5CSbra0LLLM2lfuT3uPZW7KZ0bdwzWh5TBr4P5NCucYss=s180-rw",
 		"appName": "Miss You Photo Frame",
 		"appDescription": "Miss You Photo Editor",
@@ -249,7 +209,24 @@
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/gidHWFeHgmB2TnK4puFWbfXc08YZynoO9LKwDy4Voe9G7jlIv8ZCTAE0mpPnS_-HzQ=s180-rw",
+		"appName": "Guru Purnima Frame",
+		"appDescription": "Guru Purnima 2021 Wishing Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/gidHWFeHgmB2TnK4puFWbfXc08YZynoO9LKwDy4Voe9G7jlIv8ZCTAE0mpPnS_-HzQ=s180-rw",
+		"appName": "Guru Purnima Frame",
+		"appDescription": "Guru Purnima 2021 Wishing Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/gidHWFeHgmB2TnK4puFWbfXc08YZynoO9LKwDy4Voe9G7jlIv8ZCTAE0mpPnS_-HzQ=s180-rw",
+		"appName": "Guru Purnima Frame",
+		"appDescription": "Guru Purnima 2021 Wishing Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.guru_purnima"
+	},
 	{
 		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180-rw",
 		"appName": "Computer Shortcut Keys",
