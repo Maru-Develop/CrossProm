@@ -83,12 +83,7 @@
 		"appDescription": "Water Bubble Free Photo Frame App",
 		"url": "https://play.google.com/store/apps/details?id=com.bubble.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/Ip7bkrce5_Dt7GnlGQTKcSGik3ihd31ZSNHkQ-BbI6jLNQ2tea6uBbPip2WjZpuYN1A=s180-rw",
-		"appName": "ইসলামিক ফটো ফ্রেম",
-		"appDescription": "ঈদ, জুম্মা, হজ্জ, আল্লাহ্, মসজিদ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Ip7bkrce5_Dt7GnlGQTKcSGik3ihd31ZSNHkQ-BbI6jLNQ2tea6uBbPip2WjZpuYN1A=s180-rw",
 		"appName": "Islamic Photo Frame",
@@ -221,18 +216,6 @@
 	},
 	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/k1ZGiTwLSxnh1Um1wte_-EoLUEZtDqlfFYUIY9Djdys0q4kgXkFxbEXvAto29MAcXI4=s180-rw",
-		"appName": "नाम से जाने भविष्य",
-		"appDescription": "Naam Se Jane Bhavishya i Hindi",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.naamsebhavishya"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/k1ZGiTwLSxnh1Um1wte_-EoLUEZtDqlfFYUIY9Djdys0q4kgXkFxbEXvAto29MAcXI4=s180-rw",
-		"appName": "नाम से जाने भविष्य",
-		"appDescription": "Naam Se Jane Bhavishya i Hindi",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.naamsebhavishya"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/vim-P491jF4-TblKA8mjKJSgEC7m2CzYlkb_hKLMI4nsnUr2TMJqmFe-s4Ds_pnAqQ=s180-rw",
 		"appName": "15 August Photo Frame",
 		"appDescription": "Independence Day of India Photo Editor",
@@ -243,31 +226,6 @@
 		"appName": "15 August Photo Frame",
 		"appDescription": "Independence Day of India Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_india.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/hs3ZUxRpbCggrzbqdm-uxdfqKOw2maGc4JLlZU0l2uOMSgMAbzfyKvS9qiafMoQO2Jo=s180",
-		"appName": "কোন রোগের কি ঔষধ",
-		"appDescription": "ঔষধ নির্দেশিকা -কোন রোগের কি ঔষধ চিত্রসহ",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.medicine_guide"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/hs3ZUxRpbCggrzbqdm-uxdfqKOw2maGc4JLlZU0l2uOMSgMAbzfyKvS9qiafMoQO2Jo=s180",
-		"appName": "কোন রোগের কি ঔষধ",
-		"appDescription": "ঔষধ নির্দেশিকা -কোন রোগের কি ঔষধ চিত্রসহ",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.medicine_guide"
-	},
-	
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/trQKYlV-H-eY5qNSc7Lyu3K0WbcnakkbJ0BuGuvAMXDeUNRaFqQh0BQ92X4ZPeKTuw=s180",
-		"appName": "সকল রোগের হোমিও চিকিৎসা",
-		"appDescription": "সকল রোগের হোমিওপ্যাথি চিকিৎসা",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.sokolrogerhomiochikitsa"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/trQKYlV-H-eY5qNSc7Lyu3K0WbcnakkbJ0BuGuvAMXDeUNRaFqQh0BQ92X4ZPeKTuw=s180",
-		"appName": "সকল রোগের হোমিও চিকিৎসা",
-		"appDescription": "সকল রোগের হোমিওপ্যাথি চিকিৎসা",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.sokolrogerhomiochikitsa"
 	},
 	
 	{
@@ -299,12 +257,6 @@
 	},
 	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/yuiModtkjBXhCx1JN_fmnSD6tOsxSwb4jHRYJMOtfTDQiIssfRAxhkYBYM2C0zwe1vE=s180-rw",
-		"appName": "बड़ी सोच का जादू",
-		"appDescription": "The Magic of Thinking Big",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.magicofbigthinking"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/sEQHygFTO7BOqVwu9DwZSxqBFShrBxxmfqnPvvyykFeVvveNKx74NysityjsQVlK1w=s180-rw",
 		"appName": "Durga Puja Frame",
 		"appDescription": "Durga Pooja Wishing Photo Editor",
@@ -323,13 +275,6 @@
 		"appName": "Hoarding Photo Frames",
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180-rw",
-		"appName": "Computer Shortcut Keys",
-		"appDescription": "Computer Shortcut keys are generally required for using to use the computers or PC users were fast.",
-		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
 	},
 	
 	{
@@ -356,13 +301,6 @@
 		"appName": "Holi Photo Editor",
 		"appDescription": "2021 Holi Wishing Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.holi.photo_frame"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
-		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
-		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
-		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
 	}
 	
 ]
