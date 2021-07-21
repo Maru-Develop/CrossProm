@@ -366,12 +366,17 @@
 		"url": "https://play.google.com/store/apps/details?id=com.mobile.photo_frame"
 	},
 	{
-		"appIcon": "https://lh3.googleusercontent.com/WXMFhzlj1poAbYi5fqqOczQW9BIrxRUl-gtrjud_x-vsWKZ48sAkrDgf6GFagaBwSfs=s180-rw",
+		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
 		"appName": "TajMahal Photo Frame",
 		"appDescription": "Taj Mahal Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
 	},
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
+		"appName": "TajMahal Photo Frame",
+		"appDescription": "Taj Mahal Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/DzJZbqoSBTJhWGiEI7ns2PoA0_DPP2FryEllXSH5M4CbseTDrZZLjDh5Nieej_qf5g=s180",
 		"appName": "Holi Photo Editor",
