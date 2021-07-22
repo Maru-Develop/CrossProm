@@ -405,12 +405,17 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.janmashtami"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/IpbL_JIFG0KfroM12Q-J870cX_s76Rosx4lzEBcH9I1ZDv7FYRvVESKEsSLOvLuJIXk=s180-rw",
+		"appIcon": "https://play-lh.googleusercontent.com/7EmYjE4vVrpXHCCH-OcW052At7xgC3PwkuQnCDopq6MlBEDqZ3jHTdhA3ydxU-CVDhY=s180-rw",
 		"appName": "Raksha Bandhan Frame",
 		"appDescription": "Raksha Bandhan Rakhi Photo Frames",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.raksha_bandhan"
+		"url": "https://play.google.com/store/apps/details?id=com.rakshabandhan.photo_frame"
 	},
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/7EmYjE4vVrpXHCCH-OcW052At7xgC3PwkuQnCDopq6MlBEDqZ3jHTdhA3ydxU-CVDhY=s180-rw",
+		"appName": "Raksha Bandhan Frame",
+		"appDescription": "Raksha Bandhan Rakhi Photo Frames",
+		"url": "https://play.google.com/store/apps/details?id=com.rakshabandhan.photo_frame"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/TQCLICVkfQu0OaVJ1fA7U2vARGCBc6v8WK0nhC1j_jgNHhDa6fABNmgu_AzqyeXeKlc=s180",
 		"appName": "Indian Flag Text Frame",
