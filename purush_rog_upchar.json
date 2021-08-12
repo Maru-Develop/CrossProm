@@ -217,18 +217,7 @@
 		"appDescription": "Independence Day of India Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_india.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/oj47XxpH5t_QB2EsG5Vm1pbyI3VxiH_LS-WTksPxs-T8aJTnQLNfp07lFqOY3Pnyphg=s180-rw",
-		"appName": "Pregnancy Ke Lakshan",
-		"appDescription": "प्रेगनेंसी के लक्षण & टिप्स",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.pregnancyguide"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/oj47XxpH5t_QB2EsG5Vm1pbyI3VxiH_LS-WTksPxs-T8aJTnQLNfp07lFqOY3Pnyphg=s180-rw",
-		"appName": "प्रेगनेंसी के लक्षण & टिप्स",
-		"appDescription": "Pregnancy Ke Lakshan & Pregnancy Guide",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.pregnancyguide"
-	},
+
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/i4Opt9PuULe6cEcmO9gkFoF7is9pgsVTjnTpnfJoCCCxTRnShHW0oPqcI464x0JgzwY=s180-rw",
 		"appName": "Mothers Day Photo Frame",
@@ -250,12 +239,6 @@
 	},
 	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/yuiModtkjBXhCx1JN_fmnSD6tOsxSwb4jHRYJMOtfTDQiIssfRAxhkYBYM2C0zwe1vE=s180-rw",
-		"appName": "बड़ी सोच का जादू",
-		"appDescription": "The Magic of Thinking Big",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.magicofbigthinking"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/Lpo0Cw0lCBCz5nXUAzYIAp-8bOBcDNYzgwhslrjZy-OaPnawhxuhJ5jko4FckdeuPmrj=s180-rw",
 		"appName": "Beach Photo Frames",
 		"appDescription": "World famous beautiful beach photo collections",
@@ -267,12 +250,7 @@
 		"appDescription": "World famous beautiful beach photo collections",
 		"url": "https://play.google.com/store/apps/details?id=com.seabeach.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/V5RYG7759p6_xLHM5ehSOMLZqmhlmghd8p2lV5F15nQ53dK6aq4eVoBufjWNhRHRveK7=s180",
-		"appName": "Acupressure Guide in Hindi",
-		"appDescription": "Acupressure Guide - एक्यूप्रेशर द्वारा उपचार",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.acupressure_guide"
-	},
+	
 	{
 		"appIcon": "https://lh3.googleusercontent.com/G-FiWFuj5sD7IWJKUnEqIZRGD-8LToHeiiCgpzQTzjslfx_g6vvFe0Lgw-XvsUlYRA=s180-rw",
 		"appName": "Hall Photo Frames 3D",
@@ -310,18 +288,5 @@
 		"appName": "TajMahal Photo Frame",
 		"appDescription": "Taj Mahal Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/ro_4hyLyern5Io00yL9FAoV6cVGnn6_r_3knKqNYGk5pp2MO9YAEHdafXCIAQIb7Lbg=s180-rw",
-		"appName": "योगासन | Yoga",
-		"appDescription": "Yoga in Hindi",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.yogasan"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/vTcCyabAhOcxYjJ4Un0l4-IHwhzClNMxyyavsA7CMTtv-htRv1OlJ6OrnYonLz2fBA=s180-rw",
-		"appName": "आयुर्वेदिक घरेलू नुस्खे",
-		"appDescription": "Ayurvedic Gharelu Nuskhe & Upchar",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.gharelu_nuskhe"
 	}
 	]
