@@ -13,6 +13,18 @@
 		"url": "https://play.google.com/store/apps/details?id=com.weddinganniversary.photo_frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/CJVSLLHQSop6j1cBwYx5Yt0Bu8gCWseZHDF2HU_X_2wdNogzNMgP6Th5VzXkDOqQPE0=s180-rw",
+		"appName": "Jungle Photo Frame",
+		"appDescription": "Jungle & Wild Animal Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.jungle_animal.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/CJVSLLHQSop6j1cBwYx5Yt0Bu8gCWseZHDF2HU_X_2wdNogzNMgP6Th5VzXkDOqQPE0=s180-rw",
+		"appName": "Jungle Photo Frame",
+		"appDescription": "Jungle & Wild Animal Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.jungle_animal.photo_frame"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/Kne6Sm9JCIoPpIgSVywo7MYY1ME40P1w1T5LXyKXBQfeXSmv2ziMPjqo_wurYG7bDw=s180",
 		"appName": "Waterfall Photo Frames",
 		"appDescription": "Beautiful waterfalls backgrounds & frames collection",
@@ -241,12 +253,7 @@
 		"appDescription": "World famous beautiful beach photo collections",
 		"url": "https://play.google.com/store/apps/details?id=com.seabeach.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/V5RYG7759p6_xLHM5ehSOMLZqmhlmghd8p2lV5F15nQ53dK6aq4eVoBufjWNhRHRveK7=s180",
-		"appName": "Acupressure Guide in Hindi",
-		"appDescription": "Acupressure Guide - एक्यूप्रेशर द्वारा उपचार",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.acupressure_guide"
-	},
+
 	{
 		"appIcon": "https://lh3.googleusercontent.com/G-FiWFuj5sD7IWJKUnEqIZRGD-8LToHeiiCgpzQTzjslfx_g6vvFe0Lgw-XvsUlYRA=s180-rw",
 		"appName": "Hall Photo Frames 3D",
@@ -272,17 +279,5 @@
 		"appName": "Mobile Photo Frames",
 		"appDescription": "Mobile Phone & Selfie Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.mobile.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
-		"appName": "TajMahal Photo Frame",
-		"appDescription": "Taj Mahal Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
-		"appName": "TajMahal Photo Frame",
-		"appDescription": "Taj Mahal Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
 	}
 	]
