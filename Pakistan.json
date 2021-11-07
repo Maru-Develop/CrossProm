@@ -237,14 +237,18 @@
 		"appDescription": "Independence Day of India Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.independence_india.photo_frame"
 	},
-	
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/Q9AhW0FT7CoVWE-1wCuiKRY8BuGRtCH_P2hlsgicq0cvcJFQEBKQ5cpFjYS8GNAuaA=s180-rw",
+		"appIcon": "https://play-lh.googleusercontent.com/HbbpAnZMOhRmqwtwHaYVd-LQH7xrq-XhCXJCqOWcStuni7oV8hxEnn9U_oZGbHanXw=s180-rw",
 		"appName": "Snowfall Photo Frame",
-		"appDescription": "Snowfall Photo Effects Editor",
+		"appDescription": "Winter & Snowfall Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.snowfall.photo_frame"
 	},
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/HbbpAnZMOhRmqwtwHaYVd-LQH7xrq-XhCXJCqOWcStuni7oV8hxEnn9U_oZGbHanXw=s180-rw",
+		"appName": "Snowfall Photo Frame",
+		"appDescription": "Winter & Snowfall Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.snowfall.photo_frame"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/i4Opt9PuULe6cEcmO9gkFoF7is9pgsVTjnTpnfJoCCCxTRnShHW0oPqcI464x0JgzwY=s180-rw",
 		"appName": "Mothers Day Photo Frame",
