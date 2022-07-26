@@ -30,12 +30,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180-rw",
-		"appName": "Friendship Photo Frame",
-		"appDescription": "Friendship Day Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/rnNYcBECMTin88H9QLo8nl45aEn9riek8oj04c3v-6tX5zpMoi4RnN7DfGD0c1Degg4=s180",
 		"appName": "Girlfriend Photo Editor",
 		"appDescription": "Edit your photos with amazing Girls",
@@ -132,7 +126,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.seabeach.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/KTuZst-ZtyngCvc8VX8s29pGZntB8IgxpeUc_PsveP6qxRbyV4imwqe9jinEv670Cw=s180",
+		"appIcon": "https://play-lh.googleusercontent.com/g9tDJwMna7yJjK51zlWmR1nLPQHh0RmUOrod_1CkEva6oyR9vXIcTVRSV0ovmFh2XVoC=s180",
 		"appName": "Garden Photo Frame",
 		"appDescription": "Garden & Green Nature photo editor",
 		"url": "https://play.google.com/store/apps/details?id=com.garden.photo_frame"
@@ -142,6 +136,12 @@
 		"appName": "Snowfall Photo Frame",
 		"appDescription": "Winter & Snowfall Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.snowfall.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/i4Opt9PuULe6cEcmO9gkFoF7is9pgsVTjnTpnfJoCCCxTRnShHW0oPqcI464x0JgzwY=s180-rw",
+		"appName": "Mothers Day Photo Frame",
+		"appDescription": "Mother's Day 2021 Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.mothers_day.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/nP0wm8xQMxW4kamojrhJgcT7w8iH_2zO85WzP2iyT1hbG5IgeGdbEncPl5YC3nX9yCo=s180",
